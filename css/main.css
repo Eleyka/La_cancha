@@ -1,0 +1,76 @@
+.rectangulo1 {
+    width: 900px; 
+    height: 450px; 
+   background: #8cb27c;
+position: absolute;
+margin: -20px 20px 20px 10px;
+}
+
+.rectangulo2 {
+    width: 850px; 
+    height: 400px; 
+    border: 3px solid rgb(255, 255, 255);
+    background:  #8cb27c;
+    position: relative;
+    margin: 50px 20px 20px 30px;
+}
+.rectangulo3 {
+    width: 95px; 
+    height: 190px; 
+    border: 3px solid rgb(255, 255, 255);
+    background:  #8cb27c;
+    position: relative;
+    margin: -330px 0 0 30px;
+}
+.rectangulo4 {
+    width: 95px; 
+    height: 190px; 
+    border: 3px solid rgb(255, 255, 255);
+    background:  #8cb27c;
+    position: relative;
+    margin: -200px   0 0 785px;
+}
+.circulo {
+    width: 200px;
+    height: 200px;
+    border: 3px solid rgb(255, 255, 255);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #8cb27c;
+    position: relative;
+    margin: -200px 0 0 350px;
+}
+.circulo2 {
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgb(255, 255, 255);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #fff;
+    position: relative;
+    margin: -250px 0 0 490px;
+}
+.circulo3 {
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgb(255, 255, 255);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #fff;
+    position: relative;
+    margin: 28px 0 0 110px;
+}
+.circulo4 {
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgb(255, 255, 255);
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #fff;
+    position: relative;
+    margin: 120px 0 0 750px;
+}
